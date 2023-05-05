@@ -1,0 +1,4 @@
+vi add.c      to open file in termainal
+For saving press ESC , :wq
+For Copilation gcc  add.c
+For Output ./a.out
